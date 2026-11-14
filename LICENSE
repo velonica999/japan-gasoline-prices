@@ -1,0 +1,11 @@
+data/ 以下の CSV：Creative Commons Attribution 4.0 International（CC BY 4.0）
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+出典の書き方：出典：ガソリン価格.com（資源エネルギー庁「石油製品価格調査」にもとづく集計） https://gasoline-kakaku.com/data/
+
+元データ：資源エネルギー庁「石油製品価格調査（給油所小売価格調査）」 https://www.enecho.meti.go.jp/statistics/petroleum_and_lpgas/pl007/results.html
+資源エネルギー庁ウェブサイトの利用規約（公共データ利用規約 第1.0版） https://www.enecho.meti.go.jp/about/linksto_thissite/
+これをもとにガソリン価格.comが整理・集計したもので、資源エネルギー庁が作成したものではありません。
+
+The CSV files under data/ are licensed under CC BY 4.0.
+Attribution: gasoline-kakaku.com, based on ANRE Petroleum Products Price Survey. https://gasoline-kakaku.com/data/
